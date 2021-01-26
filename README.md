@@ -28,5 +28,6 @@ So, let's do it!
 [CoinCorner](https://coincorner.com) | Yes | Q1 2021 | [Twitter](https://twitter.com/CoinCorner/status/1346470541448761344) | 242
 [Buda](https://buda.com) | Yes | Q3 2018 | [blog](https://blog.buda.com/prueba-lightning-network-en-buda-com/) | 248
 [VBTC Vietnam](https://vbtc.exchange/) | Yes | January 2021 | [Twitter](https://twitter.com/VBTC_Vietnam/status/1353564136702005248) | n.d.
+[River Financial](https://river.com/) | Yes | October 2019 | [Twitter](https://twitter.com/AndrewBenson/status/1354131122980982785) | n.d.
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
