@@ -5,7 +5,7 @@
 
 With Lightning we can potentially make hundreds of thousands if not million transactions per second and so reach any part of the World (almost) instantaneously.
 
-Lightning therefore constitutes a true P2P network , in full compliance with the abstract of the Bitcoin whitepaper created by Satoshi Nakamoto, while the Base (Settlement) Layer, with its blockchain, is more similar to a broadcast system, since the transaction transcription and so their irreversibility depends on the miners.
+Lightning therefore constitutes a true P2P network, in full compliance with the abstract of the Bitcoin whitepaper created by Satoshi Nakamoto, while the Base (Settlement) Layer, with its blockchain, is more similar to a broadcast system, since the transaction transcription and so their irreversibility depends on the miners.
 
 
 
