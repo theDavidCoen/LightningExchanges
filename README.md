@@ -15,7 +15,7 @@ My proposal is to collect the exchanges that already implemented Lightning Netwo
 So, let's do it!
 
 
- Exchange |   Lightning Support?   |  Activation  | Proof of Support | [Top Cryptocurrency Spot Exchanges](https://coinmarketcap.com/it/rankings/exchanges/)
+ Exchange |   Lightning Support?   |  Activation  | Proof of Support | [Top Cryptocurrency Spot Exchanges Position](https://coinmarketcap.com/it/rankings/exchanges/)
  ------------ | ------------- | ------------- | ------------- | ------------- |
 [Binance](https://binance.com) | NO | n.d. | n.d | 1 |
 [Coinbase](https://coinbase.com)| NO | n.d. | n.d. | 2 |
