@@ -1,4 +1,4 @@
-# LightningExchages
+# LightningExchanges
 ## Let's keep track of the exchanges that support Lightning Network
 
 **Lightning Network (LNP) is a structure of payment channels open between private individuals and/or companies and represents the scaling solution for Bitcoin; that's why we often called it also the Bitcoin' Second Layer.**
