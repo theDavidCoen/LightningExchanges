@@ -3,7 +3,7 @@
 
 **Lightning Network (LNP) is a structure of payment channels open between private individuals and/or companies and represents the scaling solution for Bitcoin; that's why we often called it also the Bitcoin' Second Layer.**
 
-With Lightning we can potentially make hundreds of thousands if not million transactions for second and so reach any part of the World (almost) instantaneously.
+With Lightning we can potentially make hundreds of thousands if not million transactions per second and so reach any part of the World (almost) instantaneously.
 
 Lightning therefore constitutes a true P2P network , in full compliance with the abstract of the Bitcoin whitepaper created by Satoshi Nakamoto, while the Base (Settlement) Layer, with its blockchain, is more similar to a broadcast system, since the transaction transcription and so their irreversibility depends on the miners.
 
