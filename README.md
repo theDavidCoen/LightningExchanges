@@ -24,6 +24,9 @@ So, let's do it!
 [Bithumb](https://bithumb.com)| NO | n.d. | n.d. | 5
  ------------ | ------------- | ------------- | ------------- | ------------- |
 [OKcoin](https://okcoin.com)| Yes | Q1 2021 | [blog](https://blog.okcoin.com/2021/01/22/okcoin-integrates-lightning-network-for-99-lower-fees-and-near-instant-transaction-for-off-chain-deposits-withdrawals/) | 32
+[Southxchange](https://main.southxchange.com/) | Yes | Q3 2018 | [Twitter](https://twitter.com/southxchange/status/1049223479407599616) | 176
+[CoinCorner](https://coincorner.com) | Yes | Q1 2021 | [Twitter](https://twitter.com/CoinCorner/status/1346470541448761344) | 242
+[Buda](https://buda.com) | Yes | Q3 2018 | [blog](https://blog.buda.com/prueba-lightning-network-en-buda-com/) | 248
 [VBTC Vietnam](https://vbtc.exchange/) | Yes | January 2021 | [Twitter](https://twitter.com/VBTC_Vietnam/status/1353564136702005248) | n.d.
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
