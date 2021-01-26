@@ -23,6 +23,7 @@ So, let's do it!
 [Bitfinex](https://bitfinex.com)| Yes | September 2020 | [blog](https://blog.bitfinex.com/trading/bitfinex-supports-the-lightning-networks-wumbo-channels/) | 4 
 [Bithumb](https://bithumb.com)| NO | n.d. | n.d. | 5
  ------------ | ------------- | ------------- | ------------- | ------------- |
+[Bitstamp](https://www.bitstamp.net/)| Yes | July 2019 | [website](https://www.bitstamp.net/lightning-network-node/) | 8
 [OKcoin](https://okcoin.com)| Yes | Q1 2021 | [blog](https://blog.okcoin.com/2021/01/22/okcoin-integrates-lightning-network-for-99-lower-fees-and-near-instant-transaction-for-off-chain-deposits-withdrawals/) | 32
 [Southxchange](https://main.southxchange.com/) | Yes | Q3 2018 | [Twitter](https://twitter.com/southxchange/status/1049223479407599616) | 176
 [CoinCorner](https://coincorner.com) | Yes | Q1 2021 | [Twitter](https://twitter.com/CoinCorner/status/1346470541448761344) | 242
