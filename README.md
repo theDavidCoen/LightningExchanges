@@ -24,7 +24,7 @@ So, let's do it!
 [Bithumb](https://bithumb.com)| YES | n.d. | :small_red_triangle: | n.d. | 5
  ------------ | ------------- | ------------- | ------- | ------------- | ------------- |
 [Bitstamp](https://www.bitstamp.net/)| YES | July 2019 | :zap: | [website](https://www.bitstamp.net/lightning-network-node/) | 8
-[OKcoin](https://okcoin.com)| Declared | Q1 2021 | :zap: | [blog](https://blog.okcoin.com/2021/01/22/okcoin-integrates-lightning-network-for-99-lower-fees-and-near-instant-transaction-for-off-chain-deposits-withdrawals/) | 32
+[OKcoin](https://okcoin.com)| Declared | Q1 2021 |  :repeat: | [blog](https://blog.okcoin.com/2021/01/22/okcoin-integrates-lightning-network-for-99-lower-fees-and-near-instant-transaction-for-off-chain-deposits-withdrawals/) | 32
 [Southxchange](https://main.southxchange.com/) | YES | Q3 2018 | :zap: | [Twitter](https://twitter.com/southxchange/status/1049223479407599616) | 176
 [CoinCorner](https://coincorner.com) | Yes | Q1 2021 | :zap: | [Twitter](https://twitter.com/CoinCorner/status/1346470541448761344) | 242
 [Buda](https://buda.com) | YES | Q3 2018 | :zap: | [blog](https://blog.buda.com/prueba-lightning-network-en-buda-com/) | 248
