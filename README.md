@@ -21,7 +21,7 @@ So, let's do it!
 [Coinbase](https://coinbase.com)| NO | n.d.| :small_red_triangle: | n.d. | 2 |
 [Kraken](https://kraken.com)| Declared | 2021 | :repeat: | [blog](https://blog.kraken.com/post/7225/a-need-for-speed-kraken-to-launch-bitcoin-lightning-%E2%9A%A1%EF%B8%8F-integration-in-2021/) | 3 
 [Bitfinex](https://bitfinex.com)| YES | September 2020 | :zap: | [blog](https://blog.bitfinex.com/trading/bitfinex-supports-the-lightning-networks-wumbo-channels/) | 4 
-[Bithumb](https://bithumb.com)| YES | n.d. | :small_red_triangle: | n.d. | 5
+[Bithumb](https://bithumb.com)| NO | n.d. | :small_red_triangle: | n.d. | 5
  ------------ | ------------- | ------------- | ------- | ------------- | ------------- |
 [Bitstamp](https://www.bitstamp.net/)| YES | July 2019 | :zap: | [website](https://www.bitstamp.net/lightning-network-node/) | 8
 [OKcoin](https://okcoin.com)| Declared | Q1 2021 |  :repeat: | [blog](https://blog.okcoin.com/2021/01/22/okcoin-integrates-lightning-network-for-99-lower-fees-and-near-instant-transaction-for-off-chain-deposits-withdrawals/) | 32
