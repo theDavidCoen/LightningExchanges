@@ -20,10 +20,10 @@ So, let's do it!
 [Binance](https://binance.com) | NO | n.d. | :small_red_triangle: | n.d | 1 | n.a.
 [Coinbase](https://coinbase.com)| NO | n.d.| :small_red_triangle: | n.d. | 2 | n.a.
 [Kraken](https://kraken.com)| Declared | 2021 | :repeat: | [blog](https://blog.kraken.com/post/7225/a-need-for-speed-kraken-to-launch-bitcoin-lightning-%E2%9A%A1%EF%B8%8F-integration-in-2021/) | 3 | n.d.
-[Bitfinex](https://bitfinex.com)| YES | September 2020 | :zap: | [blog](https://blog.bitfinex.com/trading/bitfinex-supports-the-lightning-networks-wumbo-channels/) | 4 | [Link bfx-lnd0](033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025@34.65.85.39:9735), [Link bfx-lnd1](03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6@34.65.85.39:9745)
+[Bitfinex](https://bitfinex.com)| YES | September 2020 | :zap: | [blog](https://blog.bitfinex.com/trading/bitfinex-supports-the-lightning-networks-wumbo-channels/) | 4 | [Link](https://ln.bitfinex.com/) bfx-lnd0, bfx-lnd1
 [Bithumb](https://bithumb.com)| NO | n.d. | :small_red_triangle: | n.d. | 5 | n.a.
  ------------ | ------------- | ------------- | ------- | ------------- | ------------- |
-[Bitstamp](https://www.bitstamp.net/)| YES | July 2019 | :zap: | [website](https://www.bitstamp.net/lightning-network-node/) | 8 | [Link ln.bitstamp.net](02a04446caa81636d60d63b066f2814cbd3a6b5c258e3172cbdded7a16e2cfff4c:3.122.40.122:9735)
+[Bitstamp](https://www.bitstamp.net/)| YES | July 2019 | :zap: | [website](https://www.bitstamp.net/lightning-network-node/) | 8 | [Link](https://www.bitstamp.net/lightning-network-node/) ln.bitstamp.net 
 [OKcoin](https://okcoin.com)| Declared | Q1 2021 |  :repeat: | [blog](https://blog.okcoin.com/2021/01/22/okcoin-integrates-lightning-network-for-99-lower-fees-and-near-instant-transaction-for-off-chain-deposits-withdrawals/) | 32
 [Southxchange](https://main.southxchange.com/) | YES | Q3 2018 | :zap: | [Twitter](https://twitter.com/southxchange/status/1049223479407599616) | 176
 [CoinCorner](https://coincorner.com) | Yes | Q1 2021 | :zap: | [Twitter](https://twitter.com/CoinCorner/status/1346470541448761344) | 242
