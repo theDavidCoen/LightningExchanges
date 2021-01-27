@@ -19,17 +19,18 @@ So, let's do it!
  ------------ | ------------- | ------------- | ------- | ------------- | ------------- |
 [Binance](https://binance.com) | NO | n.d. | :small_red_triangle: | n.d | 1 |
 [Coinbase](https://coinbase.com)| NO | n.d.| :small_red_triangle: | n.d. | 2 |
-[Kraken](https://kraken.com)| Yes | 2021 | :repeat: | [blog](https://blog.kraken.com/post/7225/a-need-for-speed-kraken-to-launch-bitcoin-lightning-%E2%9A%A1%EF%B8%8F-integration-in-2021/) | 3 
-[Bitfinex](https://bitfinex.com)| Yes | September 2020 | :zap: | [blog](https://blog.bitfinex.com/trading/bitfinex-supports-the-lightning-networks-wumbo-channels/) | 4 
-[Bithumb](https://bithumb.com)| NO | n.d. | :small_red_triangle: | n.d. | 5
+[Kraken](https://kraken.com)| Declared | 2021 | :repeat: | [blog](https://blog.kraken.com/post/7225/a-need-for-speed-kraken-to-launch-bitcoin-lightning-%E2%9A%A1%EF%B8%8F-integration-in-2021/) | 3 
+[Bitfinex](https://bitfinex.com)| YES | September 2020 | :zap: | [blog](https://blog.bitfinex.com/trading/bitfinex-supports-the-lightning-networks-wumbo-channels/) | 4 
+[Bithumb](https://bithumb.com)| YES | n.d. | :small_red_triangle: | n.d. | 5
  ------------ | ------------- | ------------- | ------- | ------------- | ------------- |
-[Bitstamp](https://www.bitstamp.net/)| Yes | July 2019 | :zap: | [website](https://www.bitstamp.net/lightning-network-node/) | 8
-[OKcoin](https://okcoin.com)| Yes | Q1 2021 | :zap: | [blog](https://blog.okcoin.com/2021/01/22/okcoin-integrates-lightning-network-for-99-lower-fees-and-near-instant-transaction-for-off-chain-deposits-withdrawals/) | 32
-[Southxchange](https://main.southxchange.com/) | Yes | Q3 2018 | :zap: | [Twitter](https://twitter.com/southxchange/status/1049223479407599616) | 176
+[Bitstamp](https://www.bitstamp.net/)| YES | July 2019 | :zap: | [website](https://www.bitstamp.net/lightning-network-node/) | 8
+[OKcoin](https://okcoin.com)| Declared | Q1 2021 | :zap: | [blog](https://blog.okcoin.com/2021/01/22/okcoin-integrates-lightning-network-for-99-lower-fees-and-near-instant-transaction-for-off-chain-deposits-withdrawals/) | 32
+[Southxchange](https://main.southxchange.com/) | YES | Q3 2018 | :zap: | [Twitter](https://twitter.com/southxchange/status/1049223479407599616) | 176
 [CoinCorner](https://coincorner.com) | Yes | Q1 2021 | :zap: | [Twitter](https://twitter.com/CoinCorner/status/1346470541448761344) | 242
-[Buda](https://buda.com) | Yes | Q3 2018 | :zap: | [blog](https://blog.buda.com/prueba-lightning-network-en-buda-com/) | 248
-[VBTC Vietnam](https://vbtc.exchange/) | Yes | January 2021 | :zap: | [Twitter](https://twitter.com/VBTC_Vietnam/status/1353564136702005248) | n.d.
-[River Financial](https://river.com/) | Yes | October 2019 | :zap: | [Twitter](https://twitter.com/AndrewBenson/status/1354131122980982785) | n.d.
+[Buda](https://buda.com) | YES | Q3 2018 | :zap: | [blog](https://blog.buda.com/prueba-lightning-network-en-buda-com/) | 248
+[Bitaroo](https://bitaroo.com.au/) | YES | September 2019 | :zap: | [Twitter](https://twitter.com/BitarooExchange/status/1307999122151022594) | n.d.
+[River Financial](https://river.com/) | YES | October 2019 | :zap: | [Twitter](https://twitter.com/AndrewBenson/status/1354131122980982785) | n.d.
+[VBTC Vietnam](https://vbtc.exchange/) | YES | January 2021 | :zap: | [Twitter](https://twitter.com/VBTC_Vietnam/status/1353564136702005248) | n.d.
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
 
