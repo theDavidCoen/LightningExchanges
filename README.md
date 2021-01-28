@@ -31,7 +31,7 @@ So, let's do it!
 [Bitaroo](https://bitaroo.com.au/) | YES | September 2019 | :zap: | [Twitter](https://twitter.com/BitarooExchange/status/1307999122151022594) | n.d.
 [River Financial](https://river.com/) | YES | October 2019 | :zap: | [Twitter](https://twitter.com/AndrewBenson/status/1354131122980982785) | n.d.
 [VBTC Vietnam](https://vbtc.exchange/) | YES | January 2021 | :zap: | [Twitter](https://twitter.com/VBTC_Vietnam/status/1353564136702005248) | n.d.
-[FlixedFloat](https://fixedfloat.com/) | YES | n.d. | :zap: | [blog](https://fixedfloat.com/blog/currency/lightning-network) | n.d. | [Link](https://1ml.com/node/037f990e61acee8a7697966afd29dd88f3b1f8a7b14d625c4f8742bd952003a590) fixedfloat.com
+[FlixedFloat](https://fixedfloat.com/) | YES | February 2019 | :zap: | [blog](https://fixedfloat.com/blog/currency/lightning-network) | n.d. | [Link](https://1ml.com/node/037f990e61acee8a7697966afd29dd88f3b1f8a7b14d625c4f8742bd952003a590) fixedfloat.com
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
 
