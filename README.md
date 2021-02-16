@@ -23,7 +23,7 @@ So, let's do it!
 [Bitfinex](https://bitfinex.com)| YES | September 2020 | :zap: | [blog](https://blog.bitfinex.com/trading/bitfinex-supports-the-lightning-networks-wumbo-channels/) | 4 | [Link](https://ln.bitfinex.com/) bfx-lnd0, bfx-lnd1
 [Bithumb](https://bithumb.com)| NO | n.d. | :small_red_triangle: | n.d. | 5 | n.a.
  ------------ | ------------- | ------------- | ------- | ------------- | ------------- |
-[Bitstamp](https://www.bitstamp.net/)| YES | July 2019 | :zap: | [website](https://www.bitstamp.net/lightning-network-node/) | 8 | [Link](https://www.bitstamp.net/lightning-network-node/) ln.bitstamp.net 
+[Bitstamp](https://www.bitstamp.net/)| YES | July 2019 | :yellow_circle: | [website](https://www.bitstamp.net/lightning-network-node/) | 8 | [Link](https://www.bitstamp.net/lightning-network-node/) ln.bitstamp.net 
 [OKEx](https://okex.com)| Declared | Q1 2021 |  :repeat: | [blog](https://www.okex.com/academy/en/okex-to-integrate-the-bitcoin-lightning-network-enabling-cheaper-and-faster-transactions-for-users) | 15
 [OKcoin](https://okcoin.com)| Declared | Q1 2021 |  :repeat: | [blog](https://blog.okcoin.com/2021/01/22/okcoin-integrates-lightning-network-for-99-lower-fees-and-near-instant-transaction-for-off-chain-deposits-withdrawals/) | 32
 [NiceHash](https://www.nicehash.com/) | YES | Q3 2020 | :zap: | [website](https://www.nicehash.com/nicehash-lightning-network-node) | 116 | [Link](https://www.nicehash.com/nicehash-lightning-network-node) ln.nicehash.com
@@ -41,8 +41,10 @@ I invite the representatives of the exchanges to signal their support to Lightni
 
 :small_red_triangle: Non-active 
 
+:repeat: In progress...
+
 :zap: Feel the power of Lightning!
 
-:repeat: In progress...
+:yellow_circle: Signalling support (example: the exchange has LN nodes, will fully support LN but at the moment doesn't support deposits/withdrawals)
 
 :poop: Admittedly against Lightning activation
