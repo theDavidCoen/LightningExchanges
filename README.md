@@ -30,10 +30,11 @@ So, let's do it!
 [Southxchange](https://main.southxchange.com/) | YES | Q3 2018 | :zap: | [Twitter](https://twitter.com/southxchange/status/1049223479407599616) | 176
 [CoinCorner](https://coincorner.com) | YES | Q1 2021 | :zap: | [Twitter](https://twitter.com/CoinCorner/status/1346470541448761344) | 242
 [Buda](https://buda.com) | YES | Q3 2018 | :zap: | [blog](https://blog.buda.com/prueba-lightning-network-en-buda-com/) | 248
+[Paxful](https://paxful.com) | Declared | Q1 2021 | :repeat: | [article](https://decrypt.co/58100/paxful-is-integrating-bitcoin-lightning-payments) | n.d.
 [Bitaroo](https://bitaroo.com.au/) | YES | September 2019 | :zap: | [Twitter](https://twitter.com/BitarooExchange/status/1307999122151022594) | n.d.
 [River Financial](https://river.com/) | YES | October 2019 | :zap: | [Twitter](https://twitter.com/AndrewBenson/status/1354131122980982785) | n.d.
 [VBTC Vietnam](https://vbtc.exchange/) | YES | January 2021 | :zap: | [Twitter](https://twitter.com/VBTC_Vietnam/status/1353564136702005248) | n.d.
-[FlixedFloat](https://fixedfloat.com/) | YES | February 2019 | :zap: | [blog](https://fixedfloat.com/blog/currency/lightning-network) | n.d. | [Link](https://1ml.com/node/037f990e61acee8a7697966afd29dd88f3b1f8a7b14d625c4f8742bd952003a590) fixedfloat.com
+[FixedFloat](https://fixedfloat.com/) | YES | February 2019 | :zap: | [blog](https://fixedfloat.com/blog/currency/lightning-network) | n.d. | [Link](https://1ml.com/node/037f990e61acee8a7697966afd29dd88f3b1f8a7b14d625c4f8742bd952003a590) fixedfloat.com
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
 
