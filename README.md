@@ -32,7 +32,7 @@ So, let's do it!
 [Buda](https://buda.com) | YES | Q3 2018 | :zap: | [blog](https://blog.buda.com/prueba-lightning-network-en-buda-com/) | 248
 [Paxful](https://paxful.com) | Declared | Q1 2021 | :repeat: | [article](https://decrypt.co/58100/paxful-is-integrating-bitcoin-lightning-payments) | n.d.
 [Bitaroo](https://bitaroo.com.au/) | YES | September 2019 | :zap: | [Twitter](https://twitter.com/BitarooExchange/status/1307999122151022594) | n.d.
-[River Financial](https://river.com/) | YES | October 2019 | :zap: | [Twitter](https://twitter.com/AndrewBenson/status/1354131122980982785) | n.d. | [Link](https://1ml.com/node/03037dc08e9ac63b82581f79b662a4d0ceca8a8ca162b1af3551595b8f2d97b70a) ln.river.com
+[River Financial](https://river.com/) | YES | October 2019 | :zap: | [Twitter](https://twitter.com/AndrewBenson/status/1354131122980982785) | n.d. | [Link](https://ln.river.com/) ln.river.com
 [VBTC Vietnam](https://vbtc.exchange/) | YES | January 2021 | :zap: | [Twitter](https://twitter.com/VBTC_Vietnam/status/1353564136702005248) | n.d.
 [FixedFloat](https://fixedfloat.com/) | YES | February 2019 | :zap: | [blog](https://fixedfloat.com/blog/currency/lightning-network) | n.d. | [Link](https://1ml.com/node/037f990e61acee8a7697966afd29dd88f3b1f8a7b14d625c4f8742bd952003a590) fixedfloat.com
 [LOFT](https://loft.trade/) | YES | February 2021 | :zap: | [Twitter](https://twitter.com/LoftTrade/status/1370047636728844288) | n.d. | n.a
