@@ -27,7 +27,7 @@ So, let's do it!
 [OKEx](https://okex.com)| Declared | Q1 2021 |  :repeat: | [blog](https://www.okex.com/academy/en/okex-to-integrate-the-bitcoin-lightning-network-enabling-cheaper-and-faster-transactions-for-users) | 15
 [OKcoin](https://okcoin.com)| YES | March 2021 |  :zap: | [Twitter](https://twitter.com/OKCoin/status/1367565547651559424) | 32
 [NiceHash](https://www.nicehash.com/) | YES | Q3 2020 | :zap: | [website](https://www.nicehash.com/nicehash-lightning-network-node) | 116 | [Link](https://www.nicehash.com/nicehash-lightning-network-node) ln.nicehash.com
-[Southxchange](https://main.southxchange.com/) | YES | Q3 2018 | :zap: | [Twitter](https://twitter.com/southxchange/status/1049223479407599616) | 176
+[Southxchange](https://main.southxchange.com/) | YES | Q3 2018 | :zap: | [Twitter](https://twitter.com/southxchange/status/1049223479407599616) | 176 | [Link] (https://1ml.com/node/0260fab633066ed7b1d9b9b8a0fac87e1579d1709e874d28a0d171a1f5c43bb877) 1ml.com
 [CoinCorner](https://coincorner.com) | YES | Q1 2021 | :zap: | [Twitter](https://twitter.com/CoinCorner/status/1346470541448761344) | 242
 [Buda](https://buda.com) | YES | Q3 2018 | :zap: | [blog](https://blog.buda.com/prueba-lightning-network-en-buda-com/) | 248
 [Paxful](https://paxful.com) | Declared | Q1 2021 | :repeat: | [article](https://decrypt.co/58100/paxful-is-integrating-bitcoin-lightning-payments) | n.d.
