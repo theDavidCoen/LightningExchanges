@@ -17,21 +17,21 @@ So, let's do it!
 
  Exchange |   Lightning Support?   |  Activation  | Status | Proof of Support | [Top Cryptocurrency Spot Exchanges Position](https://coinmarketcap.com/it/rankings/exchanges/) | Node URI
  ------------ | ------------- | ------------- | ------- | ------------- | ------------- | ------------- |
-[Binance](https://binance.com) | NO | n.d. | :small_red_triangle: | n.d | 1 | n.a.
-[Coinbase](https://coinbase.com)| NO | n.d.| :small_red_triangle: | n.d. | 2 | n.a.
-[Kraken](https://kraken.com)| Declared | 2021 | :repeat: | [blog](https://blog.kraken.com/post/7225/a-need-for-speed-kraken-to-launch-bitcoin-lightning-%E2%9A%A1%EF%B8%8F-integration-in-2021/) | 3 | n.d.
+[Binance](https://binance.com) | NO | n.d. | :red_circle: | n.d | 1 | n.a.
+[Coinbase](https://coinbase.com)| NO | n.d.| :red_circle: | n.d. | 2 | n.a.
+[Kraken](https://kraken.com)| Declared | 2021 | :hourglass_flowing_sand: | [blog](https://blog.kraken.com/post/7225/a-need-for-speed-kraken-to-launch-bitcoin-lightning-%E2%9A%A1%EF%B8%8F-integration-in-2021/) | 3 | n.d.
 [Bitfinex](https://bitfinex.com)| YES | September 2020 | :zap: | [blog](https://blog.bitfinex.com/trading/bitfinex-supports-the-lightning-networks-wumbo-channels/) | 4 | [Link](https://ln.bitfinex.com/) bfx-lnd0, bfx-lnd1
-[Bithumb](https://bithumb.com)| NO | n.d. | :small_red_triangle: | n.d. | 5 | n.a.
+[Bithumb](https://bithumb.com)| NO | n.d. | :red_circle: | n.d. | 5 | n.a.
  ------------ | --------- | -------- | ---- | -------- | -------- | -------- |
 [Bitstamp](https://www.bitstamp.net/)| YES | July 2019 | :yellow_circle: | [website](https://www.bitstamp.net/lightning-network-node/) | 8 | [Link](https://www.bitstamp.net/lightning-network-node/) ln.bitstamp.net 
-[OKEx](https://okex.com)| Declared | Q1 2021 |  :repeat: | [blog](https://www.okex.com/academy/en/okex-to-integrate-the-bitcoin-lightning-network-enabling-cheaper-and-faster-transactions-for-users) | 15
+[OKEx](https://okex.com)| Declared | Q1 2021 |  :hourglass_flowing_sand: | [blog](https://www.okex.com/academy/en/okex-to-integrate-the-bitcoin-lightning-network-enabling-cheaper-and-faster-transactions-for-users) | 15
 [OKcoin](https://okcoin.com)| YES | March 2021 |  :zap: | [Twitter](https://twitter.com/OKCoin/status/1367565547651559424) | 32
 [NiceHash](https://www.nicehash.com/) | YES | Q3 2020 | :zap: | [website](https://www.nicehash.com/nicehash-lightning-network-node) | 116 | [Link](https://www.nicehash.com/nicehash-lightning-network-node) ln.nicehash.com
 [TheRockTrading](https://www.therocktrading.com/) | YES | January 2021 | :zap: | [website](https://www.therocktrading.com/en/lightning-network ) | 117 | [Link](https://1ml.com/node/032d5ca945dc4887bc9a026f44d60c881595023e3d7e66db803ff86c3b3c09da1b) TheRockLightning
 [Southxchange](https://main.southxchange.com/) | YES | Q3 2018 | :zap: | [Twitter](https://twitter.com/southxchange/status/1049223479407599616) | 176 | [Link](https://1ml.com/node/0260fab633066ed7b1d9b9b8a0fac87e1579d1709e874d28a0d171a1f5c43bb877) southxchange.com
 [CoinCorner](https://coincorner.com) | YES | Q1 2021 | :zap: | [Twitter](https://twitter.com/CoinCorner/status/1346470541448761344) | 242
 [Buda](https://buda.com) | YES | Q3 2018 | :zap: | [blog](https://blog.buda.com/prueba-lightning-network-en-buda-com/) | 248
-[Paxful](https://paxful.com) | Declared | Q1 2021 | :repeat: | [article](https://decrypt.co/58100/paxful-is-integrating-bitcoin-lightning-payments) | n.d.
+[Paxful](https://paxful.com) | Declared | Q1 2021 | :hourglass_flowing_sand: | [article](https://decrypt.co/58100/paxful-is-integrating-bitcoin-lightning-payments) | n.d.
 [Bitaroo](https://bitaroo.com.au/) | YES | September 2019 | :zap: | [Twitter](https://twitter.com/BitarooExchange/status/1307999122151022594) | n.d.
 [River Financial](https://river.com/) | YES | October 2019 | :zap: | [Twitter](https://twitter.com/AndrewBenson/status/1354131122980982785) | n.d. | [Link](https://ln.river.com/) ln.river.com
 [VBTC Vietnam](https://vbtc.exchange/) | YES | January 2021 | :zap: | [Twitter](https://twitter.com/VBTC_Vietnam/status/1353564136702005248) | n.d.
@@ -42,9 +42,9 @@ I invite the representatives of the exchanges to signal their support to Lightni
 
 **Legend:**
 
-:small_red_triangle: Non-active 
+:red_circle: Non-active 
 
-:repeat: In progress...
+:hourglass_flowing_sand: In progress...
 
 :zap: Feel the power of Lightning!
 
