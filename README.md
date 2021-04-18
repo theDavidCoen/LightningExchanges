@@ -23,7 +23,7 @@ So, let's do it!
 [Bitfinex](https://bitfinex.com)| YES | September 2020 | :zap: | [blog](https://blog.bitfinex.com/trading/bitfinex-supports-the-lightning-networks-wumbo-channels/) | 4 | [Link](https://ln.bitfinex.com/) bfx-lnd0, bfx-lnd1
 [Bithumb](https://bithumb.com)| NO | n.d. | :small_red_triangle: | n.d. | 5 | n.a.
  ------------ | --------- | -------- | ---- | -------- | -------- | -------- |
-[Bitstamp](https://www.bitstamp.net/)| NO | July 2019 | :yellow_circle: | [website](https://www.bitstamp.net/lightning-network-node/) | 8 | [Link](https://www.bitstamp.net/lightning-network-node/) ln.bitstamp.net 
+[Bitstamp](https://www.bitstamp.net/)| YES | July 2019 | :yellow_circle: | [website](https://www.bitstamp.net/lightning-network-node/) | 8 | [Link](https://www.bitstamp.net/lightning-network-node/) ln.bitstamp.net 
 [OKEx](https://okex.com)| Declared | Q1 2021 |  :repeat: | [blog](https://www.okex.com/academy/en/okex-to-integrate-the-bitcoin-lightning-network-enabling-cheaper-and-faster-transactions-for-users) | 15
 [OKcoin](https://okcoin.com)| YES | March 2021 |  :zap: | [Twitter](https://twitter.com/OKCoin/status/1367565547651559424) | 32
 [NiceHash](https://www.nicehash.com/) | YES | Q3 2020 | :zap: | [website](https://www.nicehash.com/nicehash-lightning-network-node) | 116 | [Link](https://www.nicehash.com/nicehash-lightning-network-node) ln.nicehash.com
@@ -36,6 +36,7 @@ So, let's do it!
 [River Financial](https://river.com/) | YES | October 2019 | :zap: | [Twitter](https://twitter.com/AndrewBenson/status/1354131122980982785) | n.d. | [Link](https://ln.river.com/) ln.river.com
 [VBTC Vietnam](https://vbtc.exchange/) | YES | January 2021 | :zap: | [Twitter](https://twitter.com/VBTC_Vietnam/status/1353564136702005248) | n.d.
 [FixedFloat](https://fixedfloat.com/) | YES | February 2019 | :zap: | [blog](https://fixedfloat.com/blog/currency/lightning-network) | n.d. | [Link](https://1ml.com/node/037f990e61acee8a7697966afd29dd88f3b1f8a7b14d625c4f8742bd952003a590) fixedfloat.com
+[BitMex](https://bitmex.com/) | YES | August 2018 | 🟡 | [Twitter](https://twitter.com/BitMEXResearch/status/1031814678371069952) | n.d. | [Link](https://1ml.com/node/0287416bd553ff2630ff54640e3a7e4230d632387039313bf5a24d7df2006e13c2) BitMEXResearch
 [LOFT](https://loft.trade/) | YES | February 2021 | :zap: | [Twitter](https://twitter.com/LoftTrade/status/1370047636728844288) | n.d. | n.a
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
