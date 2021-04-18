@@ -30,13 +30,13 @@ So, let's do it!
 [TheRockTrading](https://www.therocktrading.com/) | YES | January 2021 | :zap: | [website](https://www.therocktrading.com/en/lightning-network ) | 117 | [Link](https://1ml.com/node/032d5ca945dc4887bc9a026f44d60c881595023e3d7e66db803ff86c3b3c09da1b) TheRockLightning
 [Southxchange](https://main.southxchange.com/) | YES | Q3 2018 | :zap: | [Twitter](https://twitter.com/southxchange/status/1049223479407599616) | 176 | [Link](https://1ml.com/node/0260fab633066ed7b1d9b9b8a0fac87e1579d1709e874d28a0d171a1f5c43bb877) southxchange.com
 [CoinCorner](https://coincorner.com) | YES | Q1 2021 | :zap: | [Twitter](https://twitter.com/CoinCorner/status/1346470541448761344) | 242
+[BitMex](https://bitmex.com/) | YES | August 2018 | 🟡 | [Twitter](https://twitter.com/BitMEXResearch/status/1031814678371069952) | 247 | [Link](https://1ml.com/node/0287416bd553ff2630ff54640e3a7e4230d632387039313bf5a24d7df2006e13c2) BitMexResearch
 [Buda](https://buda.com) | YES | Q3 2018 | :zap: | [blog](https://blog.buda.com/prueba-lightning-network-en-buda-com/) | 248
 [Paxful](https://paxful.com) | Declared | Q1 2021 | :hourglass_flowing_sand: | [article](https://decrypt.co/58100/paxful-is-integrating-bitcoin-lightning-payments) | n.d.
 [Bitaroo](https://bitaroo.com.au/) | YES | September 2019 | :zap: | [Twitter](https://twitter.com/BitarooExchange/status/1307999122151022594) | n.d.
 [River Financial](https://river.com/) | YES | October 2019 | :zap: | [Twitter](https://twitter.com/AndrewBenson/status/1354131122980982785) | n.d. | [Link](https://ln.river.com/) ln.river.com
 [VBTC Vietnam](https://vbtc.exchange/) | YES | January 2021 | :zap: | [Twitter](https://twitter.com/VBTC_Vietnam/status/1353564136702005248) | n.d.
 [FixedFloat](https://fixedfloat.com/) | YES | February 2019 | :zap: | [blog](https://fixedfloat.com/blog/currency/lightning-network) | n.d. | [Link](https://1ml.com/node/037f990e61acee8a7697966afd29dd88f3b1f8a7b14d625c4f8742bd952003a590) fixedfloat.com
-[BitMex](https://bitmex.com/) | YES | August 2018 | 🟡 | [Twitter](https://twitter.com/BitMEXResearch/status/1031814678371069952) | n.d. | [Link](https://1ml.com/node/0287416bd553ff2630ff54640e3a7e4230d632387039313bf5a24d7df2006e13c2) BitMexResearch
 [LOFT](https://loft.trade/) | YES | February 2021 | :zap: | [Twitter](https://twitter.com/LoftTrade/status/1370047636728844288) | n.d. | n.a
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
