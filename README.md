@@ -24,8 +24,8 @@ So, let's do it!
 [Bithumb](https://bithumb.com)| NO | n.d. | :red_circle: | n.d. | 5 | n.a.
  ------------ | --------- | -------- | ---- | -------- | -------- | -------- |
 [Bitstamp](https://www.bitstamp.net/)| YES | July 2019 | :yellow_circle: | [website](https://www.bitstamp.net/lightning-network-node/) | 8 | [Link](https://www.bitstamp.net/lightning-network-node/) ln.bitstamp.net 
-[OKEx](https://okex.com)| Declared | Q1 2021 |  :hourglass_flowing_sand: | [blog](https://www.okex.com/academy/en/okex-to-integrate-the-bitcoin-lightning-network-enabling-cheaper-and-faster-transactions-for-users) | 15
-[OKcoin](https://okcoin.com)| YES | March 2021 |  :zap: | [Twitter](https://twitter.com/OKCoin/status/1367565547651559424) | 32
+[OKEx](https://okex.com)| YES | April 2021 |  :zap: | [blog](https://www.okex.com/support/hc/en-us/articles/360059600412) | 15 | [Link](https://1ml.com/node/0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a) okex
+[OKcoin](https://okcoin.com)| YES | March 2021 |  :zap: | [Twitter](https://twitter.com/OKCoin/status/1367565547651559424) | 32 | [Link](https://1ml.com/node/036b53093df5a932deac828cca6d663472dbc88322b05eec1d42b26ab9b16caa1c) okcoin
 [NiceHash](https://www.nicehash.com/) | YES | Q3 2020 | :zap: | [website](https://www.nicehash.com/nicehash-lightning-network-node) | 116 | [Link](https://www.nicehash.com/nicehash-lightning-network-node) ln.nicehash.com
 [TheRockTrading](https://www.therocktrading.com/) | YES | January 2021 | :zap: | [website](https://www.therocktrading.com/en/lightning-network ) | 117 | [Link](https://1ml.com/node/032d5ca945dc4887bc9a026f44d60c881595023e3d7e66db803ff86c3b3c09da1b) TheRockLightning
 [Southxchange](https://main.southxchange.com/) | YES | Q3 2018 | :zap: | [Twitter](https://twitter.com/southxchange/status/1049223479407599616) | 176 | [Link](https://1ml.com/node/0260fab633066ed7b1d9b9b8a0fac87e1579d1709e874d28a0d171a1f5c43bb877) southxchange.com
