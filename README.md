@@ -15,29 +15,29 @@ My proposal is to collect the exchanges that already implemented Lightning Netwo
 So, let's do it!
 
 
- Exchange |   Lightning Support?   |  Activation  | Status | Proof of Support | [Top Cryptocurrency Spot Exchanges Position](https://coinmarketcap.com/it/rankings/exchanges/) | Node URI
- ------------ | ------------- | ------------- | ------- | ------------- | ------------- | ------------- |
-[Binance](https://binance.com) | NO | n.d. | :red_circle: | n.d | 1 | n.a.
-[Coinbase](https://coinbase.com)| NO | n.d.| :red_circle: | n.d. | 2 | n.a.
-[Kraken](https://kraken.com)| Declared | 2021 | :hourglass_flowing_sand: | [blog](https://blog.kraken.com/post/7225/a-need-for-speed-kraken-to-launch-bitcoin-lightning-%E2%9A%A1%EF%B8%8F-integration-in-2021/) | 3 | n.d.
-[Bitfinex](https://bitfinex.com)| YES | September 2020 | :zap: | [blog](https://blog.bitfinex.com/trading/bitfinex-supports-the-lightning-networks-wumbo-channels/) | 4 | [Link](https://ln.bitfinex.com/) bfx-lnd0, bfx-lnd1
-[Bithumb](https://bithumb.com)| NO | n.d. | :red_circle: | n.d. | 5 | n.a.
+ Exchange |   Lightning Support?   |  Activation  | Status | Proof of Support | [Top Cryptocurrency Spot Exchanges Position](https://coinmarketcap.com/it/rankings/exchanges/) | Node URI | KYC on deposit/withdraw |
+ ------------ | ------------- | ------------- | ------- | ------------- | ------------- | ------------- | ------------- |
+[Binance](https://binance.com) | NO | n.d. | :red_circle: | n.d | 1 | n.a. | n.a.
+[Coinbase](https://coinbase.com)| NO | n.d.| :red_circle: | n.d. | 2 | n.a. | n.a.
+[Kraken](https://kraken.com)| Declared | 2021 | :hourglass_flowing_sand: | [blog](https://blog.kraken.com/post/7225/a-need-for-speed-kraken-to-launch-bitcoin-lightning-%E2%9A%A1%EF%B8%8F-integration-in-2021/) | 3 | n.d. | n.d. 
+[Bitfinex](https://bitfinex.com)| YES | September 2020 | :zap: | [blog](https://blog.bitfinex.com/trading/bitfinex-supports-the-lightning-networks-wumbo-channels/) | 4 | [Link](https://ln.bitfinex.com/) bfx-lnd0, bfx-lnd1 | YES
+[Bithumb](https://bithumb.com)| NO | n.d. | :red_circle: | n.d. | 5 | n.a. | n.a.
  ------------ | --------- | -------- | ---- | -------- | -------- | -------- |
-[Bitstamp](https://www.bitstamp.net/)| YES | July 2019 | :yellow_circle: | [website](https://www.bitstamp.net/lightning-network-node/) | 8 | [Link](https://www.bitstamp.net/lightning-network-node/) ln.bitstamp.net 
-[OKEx](https://okex.com)| YES | April 2021 |  :zap: | [blog](https://www.okex.com/support/hc/en-us/articles/360059600412) | 15 | [Link](https://1ml.com/node/0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a) okex
-[OKcoin](https://okcoin.com)| YES | March 2021 |  :zap: | [Twitter](https://twitter.com/OKCoin/status/1367565547651559424) | 32 | [Link](https://1ml.com/node/036b53093df5a932deac828cca6d663472dbc88322b05eec1d42b26ab9b16caa1c) okcoin
-[NiceHash](https://www.nicehash.com/) | YES | Q3 2020 | :zap: | [website](https://www.nicehash.com/nicehash-lightning-network-node) | 116 | [Link](https://www.nicehash.com/nicehash-lightning-network-node) ln.nicehash.com
-[TheRockTrading](https://www.therocktrading.com/) | YES | January 2021 | :zap: | [website](https://www.therocktrading.com/en/lightning-network ) | 117 | [Link](https://1ml.com/node/032d5ca945dc4887bc9a026f44d60c881595023e3d7e66db803ff86c3b3c09da1b) TheRockLightning
-[Southxchange](https://main.southxchange.com/) | YES | Q3 2018 | :zap: | [Twitter](https://twitter.com/southxchange/status/1049223479407599616) | 176 | [Link](https://1ml.com/node/0260fab633066ed7b1d9b9b8a0fac87e1579d1709e874d28a0d171a1f5c43bb877) southxchange.com
+[Bitstamp](https://www.bitstamp.net/)| YES | July 2019 | :yellow_circle: | [website](https://www.bitstamp.net/lightning-network-node/) | 8 | [Link](https://www.bitstamp.net/lightning-network-node/) ln.bitstamp.net | YES 
+[OKEx](https://okex.com)| YES | April 2021 |  :zap: | [blog](https://www.okex.com/support/hc/en-us/articles/360059600412) | 15 | [Link](https://1ml.com/node/0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a) okex | YES 
+[OKcoin](https://okcoin.com)| YES | March 2021 |  :zap: | [Twitter](https://twitter.com/OKCoin/status/1367565547651559424) | 32 | [Link](https://1ml.com/node/036b53093df5a932deac828cca6d663472dbc88322b05eec1d42b26ab9b16caa1c) okcoin | YES 
+[NiceHash](https://www.nicehash.com/) | YES | Q3 2020 | :zap: | [website](https://www.nicehash.com/nicehash-lightning-network-node) | 116 | [Link](https://www.nicehash.com/nicehash-lightning-network-node) ln.nicehash.com 
+[TheRockTrading](https://www.therocktrading.com/) | YES | January 2021 | :zap: | [website](https://www.therocktrading.com/en/lightning-network ) | 117 | [Link](https://1ml.com/node/032d5ca945dc4887bc9a026f44d60c881595023e3d7e66db803ff86c3b3c09da1b) TheRockLightning | YES 
+[Southxchange](https://main.southxchange.com/) | YES | Q3 2018 | :zap: | [Twitter](https://twitter.com/southxchange/status/1049223479407599616) | 176 | [Link](https://1ml.com/node/0260fab633066ed7b1d9b9b8a0fac87e1579d1709e874d28a0d171a1f5c43bb877) southxchange.com | YES 
 [CoinCorner](https://coincorner.com) | YES | Q1 2021 | :zap: | [Twitter](https://twitter.com/CoinCorner/status/1346470541448761344) | 242
-[BitMex](https://bitmex.com/) | YES | August 2018 | 🟡 | [Twitter](https://twitter.com/BitMEXResearch/status/1031814678371069952) | 247 | [Link](https://1ml.com/node/0287416bd553ff2630ff54640e3a7e4230d632387039313bf5a24d7df2006e13c2) BitMexResearch
-[Buda](https://buda.com) | YES | Q3 2018 | :zap: | [blog](https://blog.buda.com/prueba-lightning-network-en-buda-com/) | 248
-[Paxful](https://paxful.com) | Declared | Q1 2021 | :hourglass_flowing_sand: | [article](https://decrypt.co/58100/paxful-is-integrating-bitcoin-lightning-payments) | n.d.
-[Bitaroo](https://bitaroo.com.au/) | YES | September 2019 | :zap: | [Twitter](https://twitter.com/BitarooExchange/status/1307999122151022594) | n.d.
-[River Financial](https://river.com/) | YES | October 2019 | :zap: | [Twitter](https://twitter.com/AndrewBenson/status/1354131122980982785) | n.d. | [Link](https://ln.river.com/) ln.river.com
-[VBTC Vietnam](https://vbtc.exchange/) | YES | January 2021 | :zap: | [Twitter](https://twitter.com/VBTC_Vietnam/status/1353564136702005248) | n.d.
-[FixedFloat](https://fixedfloat.com/) | YES | February 2019 | :zap: | [blog](https://fixedfloat.com/blog/currency/lightning-network) | n.d. | [Link](https://1ml.com/node/037f990e61acee8a7697966afd29dd88f3b1f8a7b14d625c4f8742bd952003a590) fixedfloat.com
-[LOFT](https://loft.trade/) | YES | February 2021 | :zap: | [Twitter](https://twitter.com/LoftTrade/status/1370047636728844288) | n.d. | n.a
+[BitMex](https://bitmex.com/) | YES | August 2018 | 🟡 | [Twitter](https://twitter.com/BitMEXResearch/status/1031814678371069952) | 247 | [Link](https://1ml.com/node/0287416bd553ff2630ff54640e3a7e4230d632387039313bf5a24d7df2006e13c2) BitMexResearch | YES 
+[Buda](https://buda.com) | YES | Q3 2018 | :zap: | [blog](https://blog.buda.com/prueba-lightning-network-en-buda-com/) | 248 | n.d. | YES 
+[Paxful](https://paxful.com) | Declared | Q1 2021 | :hourglass_flowing_sand: | [article](https://decrypt.co/58100/paxful-is-integrating-bitcoin-lightning-payments) | n.d. | n.d. 
+[Bitaroo](https://bitaroo.com.au/) | YES | September 2019 | :zap: | [Twitter](https://twitter.com/BitarooExchange/status/1307999122151022594) | n.d. | n.d. | YES 
+[River Financial](https://river.com/) | YES | October 2019 | :zap: | [Twitter](https://twitter.com/AndrewBenson/status/1354131122980982785) | n.d. | [Link](https://ln.river.com/) ln.river.com | YES 
+[VBTC Vietnam](https://vbtc.exchange/) | YES | January 2021 | :zap: | [Twitter](https://twitter.com/VBTC_Vietnam/status/1353564136702005248) | n.d. | n.d.| YES 
+[FixedFloat](https://fixedfloat.com/) | YES | February 2019 | :zap: | [blog](https://fixedfloat.com/blog/currency/lightning-network) | n.d. | [Link](https://1ml.com/node/037f990e61acee8a7697966afd29dd88f3b1f8a7b14d625c4f8742bd952003a590) fixedfloat.com | NO 
+[LOFT](https://loft.trade/) | YES | February 2021 | :zap: | [Twitter](https://twitter.com/LoftTrade/status/1370047636728844288) | n.d. | n.a| YES 
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
 
