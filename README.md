@@ -33,6 +33,7 @@ So, let's do it!
 [BitMex](https://bitmex.com/) | YES | August 2018 | 🟡 | [Twitter](https://twitter.com/BitMEXResearch/status/1031814678371069952) | 247 | [Link](https://1ml.com/node/0287416bd553ff2630ff54640e3a7e4230d632387039313bf5a24d7df2006e13c2) BitMexResearch | YES | n.a.
 [Buda](https://buda.com) | YES | Q3 2018 | :zap: | [blog](https://blog.buda.com/prueba-lightning-network-en-buda-com/) | 248 | n.a. | YES | n.a.
 [Paxful](https://paxful.com) | YES | September 2021 | :zap: | [article](https://paxful.com/blog/lighting-network-integration) | n.a. | n.a. | n.a. | n.a.
+[BullBitcoin](https://bullbitcoin.com) | YES | September 2021 | :zap: | [article](https://medium.com/bull-bitcoin/scaling-bull-bitcoins-non-custodial-services-with-the-lightning-network-782585d96098) | n.a. | [Link](https://1ml.com/node/020a1df50b701331a29782093210460b10eee0ac5ef6a01b9c51dff9b8fddf5fb0) bullbitcoin.com | n.a. | n.a.
 [Bitaroo](https://bitaroo.com.au/) | YES | September 2019 | :zap: | [Twitter](https://twitter.com/BitarooExchange/status/1307999122151022594) | n.a. | n.a. | YES | n.a.
 [River Financial](https://river.com/) | YES | October 2019 | :zap: | [Twitter](https://twitter.com/AndrewBenson/status/1354131122980982785) | n.a. | [Link](https://ln.river.com/) ln.river.com | YES | n.a. | n.a.
 [VBTC Vietnam](https://vbtc.exchange/) | YES | January 2021 | :zap: | [Twitter](https://twitter.com/VBTC_Vietnam/status/1353564136702005248) | n.a. | n.a. | YES | n.a.
