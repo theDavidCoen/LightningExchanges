@@ -42,12 +42,13 @@ So, let's do it!
 [PrimeBit](https://primebit.com/) | YES | September 2021 | :zap: | [Twitter](https://twitter.com/primebit_com/status/1438078966384975872) | n.a. | n.a. | NO | n.a.
 [SimpleFX](https://simplefx.com/) | YES | September 2021 | :zap: | [website](https://simplefx.com/bitcoin-lightning-network/) | n.a. | n.a. | NO | n.a.
 [BitcoinVN](https://bitcoinvn.io) | YES | November 2021 | :zap: | [website](https://bitcoinvn.io/?deposit=btcln) | n.a. | n.a. | NO | n.a.
+[Bottlepay](https://bottlepay.com) | YES | February 2021 | :zap: | [website](https://bottlepay.com) | n.a. | n.a. | YES | n.a.
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
 
 **Legend:**
 
-:red_circle: Non-active 
+:red_circle: Non-active
 
 :hourglass_flowing_sand: In progress...
 
