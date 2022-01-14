@@ -42,6 +42,7 @@ So, let's do it!
 [PrimeBit](https://primebit.com/) | YES | September 2021 | :zap: | [Twitter](https://twitter.com/primebit_com/status/1438078966384975872) | n.a. | n.a. | NO | n.a.
 [SimpleFX](https://simplefx.com/) | YES | September 2021 | :zap: | [website](https://simplefx.com/bitcoin-lightning-network/) | n.a. | n.a. | NO | n.a.
 [BitcoinVN](https://bitcoinvn.io) | YES | November 2021 | :zap: | [website](https://bitcoinvn.io/?deposit=btcln) | n.a. | n.a. | NO | n.a.
+[Bipa](https://bipa.app) | YES | November 2020 | :zap: | [blog](https://medium.com/o-blog-da-bipa/bipa-lan%C3%A7a-suporte-%C3%A0-lightning-network-d7474409059e) | n.a. | [Link](https://1ml.com/node/02fb79c3a9121d85b126687bd111eaebf21aaaaa5cbf232e2b6c3bdf8803f40182) bipa | YES | n.a.
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
 
