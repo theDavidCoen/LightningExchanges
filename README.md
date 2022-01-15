@@ -38,7 +38,7 @@ So, let's do it!
 [River Financial](https://river.com/) | YES | October 2019 | :zap: | [Twitter](https://twitter.com/AndrewBenson/status/1354131122980982785) | n.a. | [Link](https://ln.river.com/) ln.river.com | YES | n.a. | n.a.
 [VBTC Vietnam](https://vbtc.exchange/) | YES | January 2021 | :zap: | [Twitter](https://twitter.com/VBTC_Vietnam/status/1353564136702005248) | n.a. | n.a. | YES | n.a.
 [FixedFloat](https://fixedfloat.com/) | YES | February 2019 | :zap: | [blog](https://fixedfloat.com/blog/currency/lightning-network) | n.a. | [Link](https://1ml.com/node/037f990e61acee8a7697966afd29dd88f3b1f8a7b14d625c4f8742bd952003a590) fixedfloat.com | NO | n.a.
-[LOFT](https://loft.trade/) | YES | February 2021 | :zap: | [Twitter](https://twitter.com/LoftTrade/status/1370047636728844288) | n.a. | n.a. | YES | n.a.
+[LOFT](https://loft.trade/) | YES | February 2021 | :zap: | [Twitter](https://twitter.com/LoftTrade/status/1370047636728844288) | n.a. | n.a. | NO | n.a.
 [PrimeBit](https://primebit.com/) | YES | September 2021 | :zap: | [Twitter](https://twitter.com/primebit_com/status/1438078966384975872) | n.a. | n.a. | NO | n.a.
 [SimpleFX](https://simplefx.com/) | YES | September 2021 | :zap: | [website](https://simplefx.com/bitcoin-lightning-network/) | n.a. | n.a. | NO | n.a.
 [BitcoinVN](https://bitcoinvn.io) | YES | November 2021 | :zap: | [website](https://bitcoinvn.io/?deposit=btcln) | n.a. | n.a. | NO | n.a.
