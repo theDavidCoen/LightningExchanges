@@ -56,6 +56,6 @@ I invite the representatives of the exchanges to signal their support to Lightni
 
 :zap: Feel the power of Lightning!
 
-:yellow_circle: Signalling support (example: the exchange has LN nodes, will fully support LN but at the moment doesn't support deposits/withdrawals)
+:yellow_circle: Signaling support (example: the exchange has LN nodes, will fully support LN but at the moment doesn't support deposits/withdrawals)
 
 :poop: Admittedly against Lightning activation
