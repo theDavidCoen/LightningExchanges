@@ -19,7 +19,7 @@ So, let's do it!
  ------------ | ------------- | ------------- | ------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Binance](https://binance.com) | NO | n.a. | :red_circle: | n.a. | 1 | n.a. | n.a. | n.a.
 [Coinbase](https://coinbase.com)| NO | n.a. | :red_circle: | n.a. | 2 | n.a. | n.a. | n.a.
-[Kraken](https://kraken.com)| YES | March 2022 | :zap: | [Twitter](https://twitter.com/krakenfx/status/1509901663536041988?t=nKs6h0kyb3viJm_bhrCbWA&s=09) | 3 | n.a. | n.a. | n.a.
+[Kraken](https://kraken.com)| YES | March 2022 | :zap: | [blog](https://blog.kraken.com/post/13502/kraken-now-supports-instant-lightning-network-btc-transactions/) | 3 | n.a. | n.a. | n.a.
 [Bitfinex](https://bitfinex.com)| YES | September 2020 | :zap: | [blog](https://blog.bitfinex.com/trading/bitfinex-supports-the-lightning-networks-wumbo-channels/) | 4 | [Link](https://ln.bitfinex.com/) bfx-lnd0, bfx-lnd1 | YES | 0.04
 [Bithumb](https://bithumb.com)| NO | n.a. | :red_circle: | n.a. | 5 | n.a. | n.a. | n.a.
  ------------ | --------- | -------- | ---- | -------- | -------- | -------- | -------- | -----
