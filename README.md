@@ -45,6 +45,7 @@ So, let's do it!
 [Bipa](https://bipa.app) | YES | November 2020 | :zap: | [blog](https://medium.com/o-blog-da-bipa/bipa-lan%C3%A7a-suporte-%C3%A0-lightning-network-d7474409059e) | n.a. | [Link](https://1ml.com/node/02fb79c3a9121d85b126687bd111eaebf21aaaaa5cbf232e2b6c3bdf8803f40182) bipa | YES | n.a.
 [Boltz](https://boltz.exchange) | YES | April 2019 | :zap: | [website](https://www.notion.so/Frequently-Asked-Questions-585328ae43944e2eba351050790d5eec) | n.a. | [Link](https://1ml.com/node/026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2) boltz.exchange | NO | n.a.
 [Kollider](https://pro.kollider.xyz) | YES | January 2021 | :zap: | [Twitter](https://twitter.com/kollider_trade) | n.a. | [Link](https://1ml.com/node/02fe80fb6a2dc0fb6e9bec49c76d048889c91355d4e900fcb026bf095665790325) kollider| NO | 0.005
+[LN Markets](https://lnmarkets.com) | YES | March 2020 | :zap: | [Twitter](https://twitter.com/LNMarkets/status/1237778507062751232) | n.a. | [Link](https://amboss.space/node/03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c) LN Markets| NO | 0.05
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
 
