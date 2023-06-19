@@ -32,6 +32,7 @@ So, let's do it!
 [CoinCorner](https://coincorner.com) | YES | Q1 2021 | :zap: | [Twitter](https://twitter.com/CoinCorner/status/1346470541448761344) | 242 | n.a. | n.a. | n.a.
 [BitMex](https://bitmex.com/) | YES | August 2018 | 🟡 | [Twitter](https://twitter.com/BitMEXResearch/status/1031814678371069952) | 247 | [Link](https://1ml.com/node/0287416bd553ff2630ff54640e3a7e4230d632387039313bf5a24d7df2006e13c2) BitMexResearch | YES | n.a.
 [Buda](https://buda.com) | YES | Q3 2018 | :zap: | [blog](https://blog.buda.com/prueba-lightning-network-en-buda-com/) | 248 | n.a. | YES | n.a.
+[Mt Pelerin](https://www.mtpelerin.com/) | YES | January 2023 | :zap: | [blog](https://www.mtpelerin.com/blog/launching-bitcoin-lightning) | n.a. | [Link](https://www.amboss.space/node/020a919e4684a3678bd5d5fb21752ca19f9700214bf399abca72190c29664ad551) ln.mtpelerin.com | NO | n.a.
 [Paxful](https://paxful.com) | YES | September 2021 | :zap: | [article](https://paxful.com/blog/lighting-network-integration) | n.a. | n.a. | n.a. | n.a.
 [BullBitcoin](https://bullbitcoin.com) | YES | September 2021 | :zap: | [article](https://medium.com/bull-bitcoin/scaling-bull-bitcoins-non-custodial-services-with-the-lightning-network-782585d96098) | n.a. | [Link](https://1ml.com/node/020a1df50b701331a29782093210460b10eee0ac5ef6a01b9c51dff9b8fddf5fb0) bullbitcoin.com | n.a. | n.a.
 [Bitaroo](https://bitaroo.com.au/) | YES | September 2019 | :zap: | [Twitter](https://twitter.com/BitarooExchange/status/1307999122151022594) | n.a. | n.a. | YES | n.a.
