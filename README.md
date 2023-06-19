@@ -17,6 +17,7 @@ So, let's do it!
 
  Exchange | Lightning Support? | Activation | Status | Proof of Support | [Top Cryptocurrency Spot Exchanges Position](https://coinmarketcap.com/it/rankings/exchanges/) | Node URI | KYC on deposit/withdraw | Min. Chan Capacity (BTC)
  ------------ | ------------- | ------------- | ------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Stackfy](https://kraken.com)| YES | May 2023 | :zap: | [blog](https://medium.com/@stackfy.me/stackfy-simplificando-a-aquisi%C3%A7%C3%A3o-de-bitcoin-com-pix-lightning-12de39d7c907) | n.a. | n.a. | NO | n.a.
 [Binance](https://binance.com) | NO | n.a. | :red_circle: | n.a. | 1 | n.a. | n.a. | n.a.
 [Coinbase](https://coinbase.com)| NO | n.a. | :red_circle: | n.a. | 2 | n.a. | n.a. | n.a.
 [Kraken](https://kraken.com)| YES | April 2022 | :zap: | [blog](https://blog.kraken.com/post/13502/kraken-now-supports-instant-lightning-network-btc-transactions/) | 3 | [Link](https://amboss.space/node/02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69) Kraken 🐙⚡ | n.a. | n.a.
