@@ -15,7 +15,7 @@ My proposal is to collect the exchanges that already implemented Lightning Netwo
 So, let's do it!
 
 
- Exchange | LN Support? | Status | Proof of Support | [Top Crypto Spot Exchanges Position](https://coinmarketcap.com/it/rankings/exchanges/) | Node URI | KYC on deposit or withdraw | Min. Chan Capacity (BTC)
+ Exchange | Lightning Support? | Status | Proof of Support | [Top Crypto Spot Exchanges Position](https://coinmarketcap.com/it/rankings/exchanges/) | Node URI | KYC on deposit or withdraw | Min. Chan Capacity (BTC)
  ------------ | ------------- | ------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Binance](https://binance.com) | NO | :yellow_circle: | [Twitter](https://twitter.com/binance/status/1671042638592589826?s=20) | 1 | [Link](https://amboss.space/node/03a1f3afd646d77bdaf545cceaf079bab6057eae52c6319b63b5803d0989d6a72f) Binance | n.a. | n.a.
 [Coinbase](https://coinbase.com)| NO | :red_circle: | n.a. | 2 | n.a. | n.a. | n.a.
