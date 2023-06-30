@@ -1,7 +1,7 @@
 # LightningExchanges
 ## Let's keep track of the exchanges that support Lightning Network
 
-**Lightning Network (LNP) is a structure of payment channels open between private individuals and/or companies and represents the scaling solution for Bitcoin; that's why we often called it also the Bitcoin' Second Layer.**
+**Lightning Network (LN) is a structure of payment channels open between private individuals and/or companies and represents the scaling solution for Bitcoin; that's why we often called it also the Bitcoin' Second Layer.**
 
 With Lightning we can potentially make hundreds of thousands if not million transactions per second and so reach any part of the World (almost) instantaneously.
 
@@ -15,7 +15,7 @@ My proposal is to collect the exchanges that already implemented Lightning Netwo
 So, let's do it!
 
 
- Exchange | Lightning Support? | Activation | Status | Proof of Support | [Top Cryptocurrency Spot Exchanges Position](https://coinmarketcap.com/it/rankings/exchanges/) | Node URI | KYC on deposit/withdraw | Min. Chan Capacity (BTC)
+ Exchange | LN Support? | Activation | Status | Proof of Support | [Top Crypto Spot Exchanges Position](https://coinmarketcap.com/it/rankings/exchanges/) | Node URI | KYC on deposit or withdraw | Min. Chan Capacity (BTC)
  ------------ | ------------- | ------------- | ------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Binance](https://binance.com) | NO | n.a. | :yellow_circle: | [Twitter](https://twitter.com/binance/status/1671042638592589826?s=20) | 1 | [Link](https://amboss.space/node/03a1f3afd646d77bdaf545cceaf079bab6057eae52c6319b63b5803d0989d6a72f) Binance | n.a. | n.a.
 [Coinbase](https://coinbase.com)| NO | n.a. | :red_circle: | n.a. | 2 | n.a. | n.a. | n.a.
