@@ -53,12 +53,12 @@ I invite the representatives of the exchanges to signal their support to Lightni
 
 **Legend:**
 
-:red_circle: Non-active 
+:zap: Feel the power of Lightning!
 
 :hourglass_flowing_sand: In progress...
 
-:zap: Feel the power of Lightning!
-
 :yellow_circle: Signaling support (example: the exchange has LN nodes, will fully support LN but at the moment doesn't support deposits/withdrawals)
+
+:red_circle: Non-active 
 
 :poop: Admittedly against Lightning activation
