@@ -48,6 +48,7 @@ So, let's do it!
 [LN Markets](https://lnmarkets.com) | YES (MAR-2020) | :zap: | [Twitter](https://twitter.com/LNMarkets/status/1237778507062751232) | n.a. | [Link](https://amboss.space/node/03271338633d2d37b285dae4df40b413d8c6c791fbee7797bc5dc70812196d7d5c) LN Markets| :green_heart: NO | 0.05
 [Tauros](https://tauros.io) | YES (MAY-2022) | :zap: | [article](https://www.nasdaq.com/articles/tauros-ibex-mercado-partner-for-mexicos-first-lightning-enabled-bitcoin-exchange) | n.a. | n.a | n.a | n.a
 [Coinfinity](https://coinfinity.co) | YES (JUN-2023) | :hourglass_flowing_sand: | [Twitter](https://twitter.com/coinfinity/status/1663870230454476801) | n.a. | [Link](https://amboss.space/node/02d4531a2f2e6e5a9033d37d548cff4834a3898e74c3abe1985b493c42ebbd707d) coinfinity.co | :broken_heart: YES | n.a
+[Ripio](https://www.ripio.com/) | YES (AUG-2023) | :zap: | [Twitter](https://x.com/ripioBR/status/1669807881330348033?s=20) | n.a. | [Link](https://amboss.space/node/03831262b0cb086ba6f2360a36757e4283347f3f67f01d6f24f54c3eee841e29d6) Ripio 🐖 | :broken_heart: YES | n.a
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
 
