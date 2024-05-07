@@ -54,12 +54,17 @@ I invite the representatives of the exchanges to signal their support to Lightni
 
 **Legend:**
 
-:zap: Feel the power of Lightning!
+:zap: **Feel the power of Lightning!**
+<br>The exchange fully support Lightning deposits / withdrawals
 
-:hourglass_flowing_sand: In progress...
+:hourglass_flowing_sand: **In progress...**
+<br>The exchange is planning to support Lightning deposits / withdrawals
 
-:yellow_circle: Signaling support (example: the exchange has LN nodes, will fully support LN but at the moment doesn't support deposits/withdrawals)
+:yellow_circle: **Signaling support**
+<br>The exchange has LN nodes, provide channels and liquidity to the network, it might integrate LN features in its UI, but at the moment doesn't support deposits / withdrawals
 
-:red_circle: Non-active 
+:red_circle: **Non-active** 
+<br>The exchange doesn't support Lightning at the moment
 
-:poop: Admittedly against Lightning activation
+:poop: **Admittedly against Lightning activation**
+<br>The exchange explicitly declared it will not support Lightning
