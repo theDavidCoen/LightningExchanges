@@ -49,6 +49,7 @@ So, let's do it!
 [Coinfinity](https://coinfinity.co) | YES (JUN-2023) | :hourglass_flowing_sand: | [Twitter](https://twitter.com/coinfinity/status/1663870230454476801) | n.a. | [Link](https://amboss.space/node/02d4531a2f2e6e5a9033d37d548cff4834a3898e74c3abe1985b493c42ebbd707d) coinfinity.co | :broken_heart: YES | n.a
 [Ripio](https://www.ripio.com/) | **YES** (AUG-2023) | :zap: | [Twitter](https://x.com/ripioBR/status/1669807881330348033?s=20) | n.a. | [Link](https://amboss.space/node/03831262b0cb086ba6f2360a36757e4283347f3f67f01d6f24f54c3eee841e29d6) Ripio 🐖 | :broken_heart: YES | n.a
 [StealthEX](https://stealthex.io/) | **YES** (NOV-2023) | :zap: | [Twitter](https://twitter.com/VisionaryFinanc/status/1722840266812371377) | n.a. | n.a. | :green_heart: NO | n.a.
+[SecureShift](https://secureshift.io/) | **YES** (FEB-2023) | :zap: | n.a. | [Link]
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
 
