@@ -65,6 +65,3 @@ I invite the representatives of the exchanges to signal their support to Lightni
 
 :red_circle: **Non-active** 
 <br>The exchange doesn't support Lightning at the moment
-
-:poop: **Admittedly against Lightning activation**
-<br>The exchange explicitly declared it will not support Lightning
