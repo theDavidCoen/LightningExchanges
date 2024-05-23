@@ -18,11 +18,11 @@ So, let's do it!
  Exchange | Lightning Support? | Status | Proof of Support | [Top Crypto Spot Exchanges Position](https://coinmarketcap.com/rankings/exchanges/) | Node URI | KYC on deposit or withdraw | Min. Chan Capacity (BTC)
  ------------ | ------------- | ------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Binance](https://binance.com) | **YES** (JUL-2023) | :zap: | [Twitter](https://twitter.com/binance/status/1671042638592589826?s=20) | 1 | [Link](https://amboss.space/node/03a1f3afd646d77bdaf545cceaf079bab6057eae52c6319b63b5803d0989d6a72f) Binance | :question: | :question:
-[Coinbase](https://coinbase.com)| NO | :red_circle: | [Twitter](https://twitter.com/brian_armstrong/status/1644794656570617856) | 2 | :question: | :question: | :question:
+[Coinbase](https://coinbase.com)| NO | :red_circle: | [Twitter](https://twitter.com/brian_armstrong/status/1644794656570617856) | 2 | n.a. | n.a. | n.a.
 [Kraken](https://kraken.com)| **YES** (APR-2022) | :zap: | [blog](https://blog.kraken.com/post/13502/kraken-now-supports-instant-lightning-network-btc-transactions/) | 3 | [Link](https://amboss.space/node/02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69) Kraken 🐙⚡ | :broken_heart: YES | :question:
 [Bitfinex](https://bitfinex.com)| **YES** (SEP-2020) | :zap: | [blog](https://blog.bitfinex.com/trading/bitfinex-supports-the-lightning-networks-wumbo-channels/) | 4 | [Link](https://ln.bitfinex.com/) bfx-lnd0, bfx-lnd1 | :broken_heart: YES | 0.04
 [Bithumb](https://bithumb.com)| NO | :red_circle: | n.a. | 5 | n.a. | :question: | n.a.
- ------------ | --------- | ---- | -------- | -------- | -------- | -------- | -----
+ ----------- | --------- | ---- | -------- | -------- | -------- | -------- | -----
 [Bitstamp](https://www.bitstamp.net/)| YES (JUL-2019) | :yellow_circle: | [website](https://www.bitstamp.net/lightning-network-node/) | 8 | [Link](https://www.bitstamp.net/lightning-network-node/) ln.bitstamp.net | :broken_heart: YES | 0.0002
 [OKEx](https://okex.com)| **YES** (APR-2021) | :zap: | [blog](https://www.okex.com/support/hc/en-us/articles/360059600412) | 15 | [Link](https://1ml.com/node/0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a) okex | :broken_heart: YES | 0.04
 [OKcoin](https://okcoin.com)| **YES** (MAR-2021) | :zap: | [Twitter](https://twitter.com/OKCoin/status/1367565547651559424) | 32 | [Link](https://1ml.com/node/036b53093df5a932deac828cca6d663472dbc88322b05eec1d42b26ab9b16caa1c) okcoin | :broken_heart: YES | 0.04
