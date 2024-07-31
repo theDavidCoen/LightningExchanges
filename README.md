@@ -19,6 +19,7 @@ So, let's do it!
  ------------ | ------------- | ------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Binance](https://binance.com) | **YES** (JUL-2023) | :zap: | [Twitter](https://twitter.com/binance/status/1671042638592589826?s=20) | 1 | [Link](https://amboss.space/node/03a1f3afd646d77bdaf545cceaf079bab6057eae52c6319b63b5803d0989d6a72f) Binance | :question: | :question:
 [Coinbase](https://coinbase.com)| **YES**&nbsp;(APR&#8209;2024) | :zap: | [blog](https://www.coinbase.com/blog/coinbase-integrates-bitcoins-lightning-network-in-partnership-with) | 2 | n.a. | :broken_heart: YES | :question:
+[SimpleSwap](https://simpleswap.io)| **YES** (JUL-2024) | :zap: | [blog](https://simpleswap.io/blog/btc-lightning-is-now-on-simpleswap) | 2 | n.a. | :green_heart: NO | :question:
 [Kraken](https://kraken.com)| **YES** (APR-2022) | :zap: | [blog](https://blog.kraken.com/post/13502/kraken-now-supports-instant-lightning-network-btc-transactions/) | 3 | [Link](https://amboss.space/node/02f1a8c87607f415c8f22c00593002775941dea48869ce23096af27b0cfdcc0b69) Kraken 🐙⚡ | :broken_heart: YES | :question:
 [Bitfinex](https://bitfinex.com)| **YES** (SEP-2020) | :zap: | [blog](https://blog.bitfinex.com/trading/bitfinex-supports-the-lightning-networks-wumbo-channels/) | 4 | [Link](https://ln.bitfinex.com/) bfx-lnd0, bfx-lnd1 | :broken_heart: YES | 0.04
 [Bithumb](https://bithumb.com)| NO | :red_circle: | n.a. | 5 | n.a. | :question: | n.a.
