@@ -52,6 +52,7 @@ So, let's do it!
 [Ripio](https://www.ripio.com/) | **YES** (AUG-2023) | :zap: | [Twitter](https://x.com/ripioBR/status/1669807881330348033?s=20) | n.a. | [Link](https://amboss.space/node/03831262b0cb086ba6f2360a36757e4283347f3f67f01d6f24f54c3eee841e29d6) Ripio 🐖 | :broken_heart: YES | :question:
 [StealthEX](https://stealthex.io/) | **YES** (NOV-2023) | :zap: | [Twitter](https://twitter.com/VisionaryFinanc/status/1722840266812371377) | n.a. | :question: | :green_heart: NO | :question:
 [SecureShift](https://secureshift.io/) | **YES** (MAY-2023) | :zap: | [blog](https://secureshift.io/blog/lightning-network) | n.a. | :question: | :green_heart: NO | :question:
+[Rhino Bitcoin](https://www.rhinobitcoin.com/) | **YES** (May-2024) | :zap: | [blog](https://www.rhinobitcoin.com/blog-post-category/bitcoin-lightning-network) | n.a. | :question: | :broken_heart: YES | :question:
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
 
