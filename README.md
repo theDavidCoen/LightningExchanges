@@ -54,6 +54,7 @@ So, let's do it!
 [StealthEX](https://stealthex.io/) | **YES** (NOV-2023) | :zap: | [Twitter](https://twitter.com/VisionaryFinanc/status/1722840266812371377) | n.a. | :question: | :green_heart: NO | :question:
 [SecureShift](https://secureshift.io/) | **YES** (MAY-2023) | :zap: | [blog](https://secureshift.io/blog/lightning-network) | n.a. | :question: | :green_heart: NO | :question:
 [Rhino Bitcoin](https://www.rhinobitcoin.com/) | **YES** (May-2024) | :zap: | [blog](https://www.rhinobitcoin.com/blog-post-category/bitcoin-lightning-network) | n.a. | :question: | :broken_heart: YES | :question:
+[Lightning Pay](https://lightningpay.nz/) | **YES** (March-2024) | :zap: | [blog](https://lightningpay.nz/news/connecting-new-zealand/) | n.a. | :question: | :broken_heart: YES | :question:
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
 
