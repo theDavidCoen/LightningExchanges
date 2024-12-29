@@ -32,6 +32,7 @@ So, let's do it!
 [CoinCorner](https://coincorner.com) | **YES** (Q1-2021) | :zap: | [Twitter](https://twitter.com/CoinCorner/status/1346470541448761344) | 242 | :question: | :question: | :question:
 [BitMex](https://bitmex.com/) | YES (AUG-2018) | 🟡 | [Twitter](https://twitter.com/BitMEXResearch/status/1031814678371069952) | 247 | [Link](https://1ml.com/node/0287416bd553ff2630ff54640e3a7e4230d632387039313bf5a24d7df2006e13c2) BitMexResearch | :broken_heart: YES | :question:
 [Buda](https://buda.com) | **YES** (Q3-2018) | :zap: | [blog](https://blog.buda.com/prueba-lightning-network-en-buda-com/) | 248 | :question: | :broken_heart: YES | :question:
+[Cash App](https://cash.app/) | **YES** (Q3-2022) | :zap: | [Twitter](https://x.com/MichaelRihani/status/1584729594124697601) | n.a. | :question: | :broken_heart: YES | :question:
 [Strike](https://www.strike.me/) | **YES** | :zap: | [Second Tweet](https://twitter.com/Strike/status/1223009058082476032) | n.a. | [Link](https://1ml.com/node/03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd) | :broken_heart: YES | :question:
 [Mt Pelerin](https://www.mtpelerin.com/) | **YES** (JAN-2023) | :zap: | [blog](https://www.mtpelerin.com/blog/launching-bitcoin-lightning) | n.a. | [Link](https://www.amboss.space/node/020a919e4684a3678bd5d5fb21752ca19f9700214bf399abca72190c29664ad551) ln.mtpelerin.com | :green_heart: NO | :question:
 [Paxful](https://paxful.com) | **YES** (SEP-2021) | :zap: | [article](https://paxful.com/blog/lighting-network-integration) | n.a. | :question: | :question: | :question:
