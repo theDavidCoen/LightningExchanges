@@ -42,7 +42,6 @@ So, let's do it!
 [VBTC Vietnam](https://vbtc.exchange/) | **YES** (JAN-2021) | :zap: | [Twitter](https://twitter.com/VBTC_Vietnam/status/1353564136702005248) | n.a. | :question: | :broken_heart: YES | :question:
 [FixedFloat](https://fixedfloat.com/) | **YES** (FEB-2019) | :zap: | [blog](https://fixedfloat.com/blog/currency/lightning-network) | n.a. | [Link](https://1ml.com/node/037f990e61acee8a7697966afd29dd88f3b1f8a7b14d625c4f8742bd952003a590) fixedfloat.com | :green_heart: NO | :question:
 [LOFT](https://loft.trade/) | **YES** (FEB-2021) | :zap: | [Twitter](https://twitter.com/LoftTrade/status/1370047636728844288) | n.a. | :question: | :green_heart: NO | :question:
-[PrimeBit](https://primebit.com/) | **YES** (SEP-2021) | :zap: | [Twitter](https://twitter.com/primebit_com/status/1438078966384975872) | n.a. | :question: | :green_heart: NO | :question:
 [SimpleFX](https://simplefx.com/) | **YES** (SEP-2021) | :zap: | [website](https://simplefx.com/bitcoin-lightning-network/) | n.a. | :question: | :green_heart: NO | :question:
 [BitcoinVN](https://bitcoinvn.io) | **YES** (NOV-2021) | :zap: | [website](https://bitcoinvn.io/?deposit=btcln) | n.a. | :question: | :green_heart: NO | :question:
 [Bipa](https://bipa.app) | **YES** (NOV-2020) | :zap: | [blog](https://medium.com/o-blog-da-bipa/bipa-lan%C3%A7a-suporte-%C3%A0-lightning-network-d7474409059e) | n.a. | [Link](https://1ml.com/node/02fb79c3a9121d85b126687bd111eaebf21aaaaa5cbf232e2b6c3bdf8803f40182) bipa | :broken_heart: YES | :question:
