@@ -53,6 +53,7 @@ So, let's do it!
 [Rhino Bitcoin](https://www.rhinobitcoin.com/) | **YES** (May-2024) | :zap: | [blog](https://www.rhinobitcoin.com/blog-post-category/bitcoin-lightning-network) | n.a. | :question: | :broken_heart: YES | :question:
 [Lightning Pay](https://lightningpay.nz/) | **YES** (March-2024) | :zap: | [blog](https://lightningpay.nz/news/connecting-new-zealand/) | n.a. | :question: | :broken_heart: YES | :question:
 [SimpleSwap](https://simpleswap.io)| **YES** (JUL-2024) | :zap: | [blog](https://simpleswap.io/blog/btc-lightning-is-now-on-simpleswap) | n.a. | n.a. | :green_heart: NO | :question:
+[Fujn Swap](https://swap.fujn.com) | **YES** (JUN-2026) | :zap: | [Reddit](https://www.reddit.com/r/AskMonero/comments/1u9fk7r/what_is_the_best_way_to_exchange_crypto_without/) | n.a. | :question: | :green_heart: NO | :question:
 
 I invite the representatives of the exchanges to signal their support to Lightning Network also in this repo.
 
